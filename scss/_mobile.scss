@@ -1,0 +1,21 @@
+@media (max-width: 700px) {
+  .container {
+    flex-direction: column-reverse;
+  }
+
+  .quote-container {
+    .quote {
+      width: 100%;
+    }
+  }
+
+  .image-slider {
+    img {
+      width: 80%;
+    }
+
+    .button-div {
+      left: 250px;
+    }
+  }
+}
